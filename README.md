@@ -1,2 +1,2 @@
 # django-todo-app
-A Smple Todo App developed by Django Framework
+# To do app with django frameWork author by Mohammad Rakhshani
